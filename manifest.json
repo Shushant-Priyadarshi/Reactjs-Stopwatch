@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Stopwatch Extension",
+    "version": "1.0.0",
+    "description": "A simple stopwatch extension built with React.",
+    "icons": {
+        "16": "icon-watch.png",
+        "48": "icon-watch.png",
+        "128": "icon-watch.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "icon-watch.png",
+            "48": "icon-watch.png",
+            "128": "icon-watch.png"
+        },
+        "default_title":"Stopwatch"
+    }
+}
